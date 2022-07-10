@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://github.com/sibyoncloud/sibyoncloud/blob/2eeb72bb1de6c2af217d7411dd4150bce2ca1fcd/siby-portfolio.gif" width="1280" title="Readme Banner">
+</p>
 
-![Siby Abin Thomas](https://github.com/sibyoncloud/sibyoncloud/blob/2eeb72bb1de6c2af217d7411dd4150bce2ca1fcd/siby-portfolio.mp4)
 
-
-![Siby Abin Thomas1](https://github.com/sibyoncloud/sibyoncloud/blob/2eeb72bb1de6c2af217d7411dd4150bce2ca1fcd/siby-portfolio.gif)
