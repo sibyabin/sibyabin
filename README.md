@@ -1,12 +1,11 @@
 >
 ## Siby Abin Thomas - Senior Data Engineer
 
+**Siby** is a passionate technologist focused on cloud data engineering and technology.
 
-I am **Siby** , a passionate cloud data engineer focused on data and technology.
+He worked with various global organizations in his career helping the clients achieve their cloud data lake migration journey with a focus on reusability , data quality , maintainability , SLA and OPEX. 
 
-In past few years, I worked with various global organizations to fulfil their cloud data lake migration journey with a focus on reusability , data quality , maintainability , SLA and OPEX. 
-
-I have got extensive hands-on experience in developing data lakes in AWS cloud.  
+He has got extensive hands-on experience in developing data lakes in AWS cloud and he is currently employed with an Indian top IT services company.  
 
 ## Summary
 - 13 Years of Total IT experience with 4+Years of experience in Building datalakes in Cloud. 
