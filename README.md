@@ -1,7 +1,7 @@
 >
 ## Siby Abin Thomas - Senior Data Engineer
 
-**Siby** is a passionate technologist focused on cloud data engineering and technology.
+**Siby** is a passionate developer focused on cloud data engineering and technology.
 
 He worked with various global organizations in his career helping the clients achieve their cloud data lake migration journey with a focus on reusability , data quality , maintainability , SLA and OPEX. 
 
