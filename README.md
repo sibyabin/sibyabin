@@ -2,7 +2,7 @@
 ## <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sibyabin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sibyabin?trk=profile-badge">Siby Abin Thomas</a> - Senior Data Engineer </div> 
 
 **Siby** is a passionate engineer focused on cloud data engineering and technology.
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sibyabin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sibyabin?trk=profile-badge">Siby Abin Thomas</a></div>
+
 He worked with various global organizations in his career helping the clients achieve their cloud data lake migration journey with a focus on reusability , data quality , maintainability , SLA and OPEX.
 
 Siby has got extensive hands-on experience in developing data lakes in AWS cloud and he is currently employed with an Indian top IT services company.
