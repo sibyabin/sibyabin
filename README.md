@@ -1,19 +1,17 @@
 >
 ## <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sibyabin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sibyabin?trk=profile-badge">Siby Abin Thomas</a> - Senior Data Engineer </div> 
 
-**Siby** is a passionate engineer focused on cloud data engineering and technology.
+Passionate engineer focused on cloud data engineering and technology.
 
-He worked with various global organizations in his career helping the clients achieve their cloud data lake migration journey with a focus on reusability , data quality , maintainability , SLA and OPEX.
+I have worked with various global organizations in my career helping the clients achieve their cloud data journey with a focus on  data quality, maintainability and OpEx.
 
-Siby has got extensive hands-on experience in developing data lakes in AWS cloud and he is currently employed with an Indian top IT services company.
 
 ## Summary
-- 13 years of IT experience with extensive experience in migrating top retail customers data pipelines to cloud.
-- Developed efficient data pipelines using Apache Spark (Certified Apache Spark Developer)
-- Implemented idempotent and manageable workflows using Airflow (Certified Apache Airflow expert) 
-- Delivered reusable data processing solutions on open source technology stack (Certified Pentaho Data Integration specialist )
-- Proficient in AWS technology stack ,key skills include Spark, AWS Cloud, Apache Airflow, Python and SQL.
-- Worked in data teams of fortune 500 organizations in onsite and remote mode.
+
+- Developed efficient data pipelines using Apache Spark.
+- Implemented idempotent and manageable workflows using Airflow.
+- Delivered reusable data processing solutions using an Open source technology stack.
+- Proficient in AWS technology stack, key skills include Spark, AWS Cloud, Apache Airflow, Python,and SQL.
 
 ## Certifications
 |Databricks Certified Associate Developer for Apache Spark 3.0|AWS Certified Cloud Practitioner|Astronomer Certification DAG Authoring for Apache Airflow|Astronomer Certification for Apache Airflow Fundamentals|
@@ -22,7 +20,7 @@ Siby has got extensive hands-on experience in developing data lakes in AWS cloud
 
 ---
 ## Contact 
-Email : sibyabin@gmail.com <br/>
-Website : https://sibyabin.github.io/ <br/>
-LinkedIn : <a href="https://in.linkedin.com/in/sibyabin">https://in.linkedin.com/in/sibyabin </a> <br/>
+Email : sibyoncloud@gmail.com <br/>
+Website : https://sibyabin.tech/ <br/>
+Blog : https://blogs.sibyabin.tech/ <br/>
               
