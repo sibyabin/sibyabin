@@ -14,7 +14,5 @@ I have worked with various global organizations in my career helping the clients
 
 ---
 ## Contact 
-Email : sibyoncloud@gmail.com <br/>
-Website : https://sibyabin.tech/ <br/>
-Blog : https://blogs.sibyabin.tech/ <br/>
+Email : sibyoncloud@gmail.com | Website : https://sibyabin.tech/ | Blog : https://blogs.sibyabin.tech/ <br/>
               
