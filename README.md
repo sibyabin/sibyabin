@@ -28,5 +28,6 @@ Passionate engineer focused on cloud data engineering and technology.
 - **Other frameworks/tools**: Pandas, boto3, Terraform, Databricks, Deltalake, Dremio, DBT
 
 ## Contact 
-<div align ="center"> <b>Email</b> : sibyoncloud@gmail.com | <b>Website</b> : https://sibyabin.tech/ | <b>Blog</b> : https://blogs.sibyabin.tech/ <br/>
+<div align ="center"> <b>Website</b> : https://sibyabin.tech/ | <b>Blog</b> : https://blogs.sibyabin.tech/ <br/>
                               <b>Linked In</b> : www.linkedin.com/in/sibyabin </div  
+
